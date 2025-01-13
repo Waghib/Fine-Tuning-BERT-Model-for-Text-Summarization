@@ -101,4 +101,9 @@ This project is part of an academic assignment for CS-4063 Natural Language Proc
 
 ## Contact
 
-For any queries regarding this project, please contact [Your Contact Information]
+For any queries regarding this project, please contact the author:
+- Name: Waghib Ahmad
+- Email: waghibahmad30@gmail.com
+- LinkedIn: https://www.linkedin.com/in/waghibahmad
+- GitHub: https://github.com/waghib
+- Website: https://waghib.github.io/
